@@ -2,5 +2,4 @@
 # Ignore ZIP archives
 *.zip
 
-
-/exercises/python
+/assignment
